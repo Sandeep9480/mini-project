@@ -1,0 +1,104 @@
+body {
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQBDQMBIgACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAADAAECBAUH/8QAIRABAQEAAgIDAQEBAQAAAAAAAAECAxESIRNRYTEEFEH/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMABQT/xAAbEQEBAQEBAQEBAAAAAAAAAAAAAQIREgMTBP/aAAwDAQACEQMRAD8A+QRvMZzC5jpSPFa1iFzGcwuYdHVazCYnpWYXOTSIaqZhcxM5JnJpErUzCSJMkzk3E7pWY3IvOSTIyJXTEjUhJlqYMndD6X4l8F+Ih6D4p4m8PxPBg9BsZuT3LNyw+g+LNye5YuWNNAuR6y6Llm5JYpNOawdjp1keoCkrmsHqOi5FqBVZXPqD1HRqC1PZFs1z2C1HRqC1C1bNBWKXUH0SxaUmYXMZzC5gxLVazDZjOYXMPENVeYbMYzDZh4jqtZhMxnM9lxDI6q5kucqkLmHiVqpkmYvMJMjxO1Uy1MtTLcyPErWJlcySZa8R4T0LxVcn6VcjxvQLlVyfxVZ6Djdc1yzcujWWLkOKTTnuR6y6bBagKZrn1B6yfUY1C2Kyua5HrLo1BahatmufUFqOjcFqFVzXNqC1HTqB1C1fNc+oPxPqDJYtK3kmYxCYGE0XJcjyWGiGqTMPmCwbJ4jqt5hsweS5NENVvMLmMZLmGS1WpCZjOf4XJ0LV5jciZhJBidrPTcz6akakEnpjxS5J0nQ8D0G5ZuT2DsAZQ6g7k+oxqBVJQag9Q+haKrmufUHqH0LcBXNDqB1D6FolXzQ6gdOjQNlWyDUDp0X+UOiLZDodhdDpavFwuBQuGgaLg2Q4NkyGjYNkODZMhouS5FkuTxDRclyHJsniNLkmR5JDI0uW5R5pJ0aJ0mWmM1uClVxfSu1WsCqxW7Wb/GNBaHomh6papB0eiWi1S1XI9h0bVDsF8jotF0LVJVoHQtG0HRatkWv4DR9A3SL5FodJqiv9LVovNNgGS4aVtHybDnybNMhp0YpcufNNmmiOofNLkGaSU8Q1HRkmaDNLmnS1D5pJfQM30TNFGw+a3KGVqU0TsdGdNTQJWpRJ5N2rsfaeQl8t2sW+lXTN16KaRNVi1Lrti0FJFaFpvVFqgpmM6od1u0ei2q5jGqHVb0PVItmMaDr+k1fQdUtXzGNB0TQtFWyLQ29Dt9lq8VmlzQZpM0sNqOjNNmubNNmnlQ1HRmlzfbnzSZvs0qVjqlJmufOiZp4hqOjOiZ055omdGlS1HRnXomdOeX03NGR1l05rXkCabmmTuTTS5sM1GvI3S+TearqjmlXTdbyS7Vddsds3TdHy3dD1pnWmLoOmmWtaFqpaxb6Dqsylo9VLod0TquYzqj1WtUWqXqsjO6HVa3R6pbVsxjVFqt6otUtWzGNUd/rWqPslq8jOaTNDJSZlCU9kPmlzQZ7Lns8Q1D5pc6c+ey57NEbD50TOgZ7Lk0SsNnRM6BG52ZLUdE16bl9AzfRJ/DSpWFmm5oMa9mJYaaX5glrXdYvC+SeQu6ndZvJfJV0Pus23ph8wl0xdM+2b2FNIu6Yt9K12xf4U8iWsWqrF7KpIrVFrTV7FrsFsxWtCumt9jvZVcxnVFqta7FotWzGdUdrWh+/olWnHVOC/RM8NelP8/wCN5/z/AIp4eO/ePPzwUk4b9PQzwfhM8H4aYRv3efnhv0TPDXfOHr/xvPF+G8kv2cOeKkzxV2zh/CTh/DeUr9nDOKknFXZOL8JOL8GZTv1cM4qScV6dk4p9NfH+G8p36uOcVanHXbOP8X8f4PCfq4viqfFXf8f4v459NwP0cHxVPir0PjT428h+rz/iqrw3p6Hx/irx/jcH9XnXirN4q9G8f4z8f43DT6PNvFWLxV6euL8YvCHDz6vNvFR64q9S8LF4SeTz6vLvFR64a9S8X4zeL8bypPtx5GuGsXhr1tcMYvAXyrn7vH1wX6Hrhv09m/5x64JAuVZ9ni64NfTP/Pfp7F4Pxn/nJ4Un9Du8fxvOVdrXc+tSNdMS+2vIYWtwkkFNLmxJTRqUPm1NsSw0rc055pfyCHl0S+1+Tn+RfyD0vl0za/JyzkX5t0PLq8mvNyfInyN0PDq+Rfm5fkT5G63l0XSvJz/InyN1vB7pXk57yJ8jdHwfyZuoG8iryMPk1sZ9fQvNPIDTLdZsnTF0q6A3Esn0zc/ieTN0x4qzpnprvtkDRi57Z8SW+2ey8MrtJUQILUWiGBO1yoggvv2vtaMWpKvuojAnaSogguVfdRGZPKp5VEYF+VTyqIDK7qd1EFktV3URhVbU7qIDK7qd1EY0VartEYVVSIwq7TtSBRiKUgC//9k=");
+    background-size: cover;
+}
+.wlcm {
+    text-align: center;
+    color: rgb(13, 194, 3);
+    font-size: 50px;
+    text-decoration:underline red ;
+}
+.p1 {
+    font-family:'Lucida Sans';
+    color: rgba(255, 255, 255, 0.959);
+    box-shadow: 2px 2px 20px black;
+    position: absolute;
+    left:30px;
+    top:120px;
+}
+.p2 {
+    font-family:'Lucida Sans';
+    color: rgba(255, 255, 255, 0.959);
+    box-shadow: 2px 2px 20px black;
+    position: absolute;
+    left:30px;
+    top:190px;
+}
+.input1 {
+    position: absolute;
+    top:250px;
+    left:30px;
+    background-color: rgb(250, 246, 246);
+    color: aliceblue;
+    border-radius: 30px;
+
+}
+.input1:hover{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 30px;
+}
+.button1 {
+    position: absolute;
+    top:250px;
+    left:200px;
+    border-radius: 20px;
+    background-color: blue;
+    color: aliceblue;
+
+}
+.p3 {
+    font-family:'Lucida Sans';
+    color: rgba(255, 255, 255, 0.959);
+    box-shadow: 2px 2px 20px black;
+    position: absolute;
+    left:30px;
+    top:270px;
+}
+.input2 {
+    position: absolute;
+    top:320px;
+    left:30px;
+    background-color: rgba(249, 246, 246, 0.86);
+    color: aliceblue;
+    border-radius: 30px;
+}
+.button2 {
+    position: absolute;
+    top:320px;
+    left:200px;
+    border-radius: 20px;
+    background-color: blue;
+    color: rgb(250, 242, 242);
+}
+.p4 {
+    font-family:'Lucida Sans';
+    color: rgba(255, 255, 255, 0.959);
+    box-shadow: 2px 2px 20px black;
+    position: absolute;
+    left:30px;
+    top:340px;
+}
+.google 
+{
+    position: absolute;
+    left: 30px;
+    top:380px;
+    background-color: aliceblue;
+}
+.p5 {
+    font-family:'Lucida Sans';
+    color: rgba(255, 255, 255, 0.959);
+    box-shadow: 2px 2px 20px black;
+    position: absolute;
+    left:30px;
+    top:400px;
+}
+.youtube {
+    position: absolute;
+    left: 30px;
+    top:440px;
+    background-color: aliceblue;
+
+}
+

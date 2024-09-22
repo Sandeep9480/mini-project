@@ -1,0 +1,109 @@
+body {
+  background-color: rgb(18, 17, 17);
+  margin: 0;
+  padding: 0;
+  /* background-image: url(photo.jpg); */
+  background-size: cover;
+
+  
+}
+.main {
+  height: 550px;
+  width: 400px;
+  background-color: rgba(208, 219, 219, 0.2);
+  position: absolute;
+  left: 600px;
+  top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  border: 5px solid rgb(250, 247, 247);
+  border-radius: 20px;
+  animation: animi 3s linear 1s infinite ;
+  opacity: 0.5;
+
+
+}
+.main:hover {
+  opacity: 1;
+  box-shadow: 5px 5px 10px white;
+
+}
+.head {
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: rgb(143, 244, 1);
+  text-decoration: underline;
+ 
+}
+.user { 
+  height: 50px;
+  font-size: 30px;
+  margin-left: 5px;
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+  
+}
+.user input {
+  font-size: 17px;
+  box-shadow: 2px 2px 10px black;
+}
+.pass {
+  height: 50px;
+  font-size: 30px;
+  position: absolute;
+  margin-left: 5px;
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+
+}
+.pass input {
+  font-size: 17px;
+  box-shadow: 2px 2px 10px black;
+  
+}
+.forget {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  top: 16rem;
+  right: 5px;
+  font-size: 20px;
+ 
+
+}
+.forget a {
+  color: rgb(82, 110, 248);
+  text-decoration: none;
+}
+
+.button {
+ position: absolute;
+ 
+  top: 20rem;
+  left: 170px;
+  height: 60px;
+}
+.button input {
+  border: 3px solid rgb(38, 0, 255);
+  border-radius: 10px;
+  color: rgb(1, 1, 1);
+  background-color: rgb(241, 241, 244);
+  height: 30px;
+  width: 70px;
+}
+.button input:hover {
+  background-color: green;
+}
+@keyframes animi { 
+  0% {
+    border: 5px solid magenta;
+  }
+  50% {
+    border: 5px solid rgb(234, 4, 4);
+  }
+  100% {
+    border : 5px solid greenyellow;
+  }
+}

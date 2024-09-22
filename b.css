@@ -1,0 +1,40 @@
+.div1 {
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border: black;
+}
+.div2 {
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    border-radius: 200px;
+}
+.div3 {
+    height: 35px;
+    width: 35px;
+    background-color: black;
+    border-radius: 35px;
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+.div4 {
+    height: 35px;
+    width: 35px;
+    background-color: black;
+    border-radius: 35px;
+    position: relative;
+    left: 120px;
+    top: 5px;
+}
+.div5 {
+    height: 30px;
+    width:100px;
+    background-color: brown;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    position:relative;
+    top:55px;
+    left:50px
+}
